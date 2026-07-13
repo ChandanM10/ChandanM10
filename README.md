@@ -91,13 +91,13 @@
 
 <!-- 🔗 SOCIALS -->
 <div align="center" style="margin:25px 0;">
-  <a href="https://github.com/Cngh10">
+  <a href="https://github.com/ChandanM10">
     <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/chandan-mahato-6a484b279">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:itssinghchandan10@gmail.com">
+  <a href="mailto:chandanmahato7975@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://chandan-mahato-portfolio-website.vercel.app/">
@@ -184,8 +184,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Cngh10&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Cngh10&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=ChandanM10&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ChandanM10&theme=tokyonight" />
 
 </div>
 

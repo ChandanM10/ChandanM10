@@ -173,10 +173,12 @@
 <img src="https://chandan-mahato-portfolio-website.vercel.app/_next/image?url=%2FHomepage.png&w=828&q=75" style="border-radius:14px;" />
 <p><b>Tech:</b> Next.js · TypeScript · Python · FFmpeg · Meta APIs</p>
 </td>
+</tr>
 
+</tr>
 <td width="50%" style="background:#0f172a; padding:15px; border-radius:18px;">
 <h3>🤖 JARVIS AI Assistant</h3>
-<img src="https://chandan-mahato-portfolio-website.vercel.app/_next/image?url=%2Fjarvis.png&w=828&q=75" style="border-radius:14px;" />
+<img src="https://chandan-mahato-portfolio-website.vercel.app/_next/image?url=%2Fjarvishaha.webp&w=828&q=75" style="border-radius:14px;" />
 <p><b>Tech:</b> Python · Whisper · Vosk · OpenAI · Automation</p>
 </td>
 
@@ -185,13 +187,21 @@
 <img src="https://chandan-mahato-portfolio-website.vercel.app/_next/image?url=%2Ffraud-detection.jpeg&w=828&q=75" style="border-radius:14px;" />
 <p><b>Tech:</b> Python · TensorFlow · Flask</p>
 </td>
+</tr>
 
+<tr>
 <td width="50%" style="background:#0f172a; padding:15px; border-radius:18px;">
 <h3>Employee Churn Prediction</h3>
 <img src="https://chandan-mahato-portfolio-website.vercel.app/_next/image?url=%2Femployee-churn.png&w=828&q=75" style="border-radius:14px;" />
 <p><b>Tech:</b> Python · Pandas · XGBoost</p>
 </td>
 
+<td width="50%" style="background:#0f172a; padding:15px; border-radius:18px;">
+<h3>Predicting Solar Energy Production</h3>
+<img src="https://chandan-mahato-portfolio-website.vercel.app/_next/image?url=%2Fsolar.jpg.webp&w=828&q=75" style="border-radius:14px;" />
+<p><b>Tech:</b> Python · Pandas · XGBoost · Matplotlib</p>
+</td>
+  
 </tr>
 
 </table>

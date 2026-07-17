@@ -163,6 +163,24 @@
 <tr>
 
 <td width="50%" style="background:#0f172a; padding:15px; border-radius:18px;">
+<h3>🇳🇵 NepalCareer Portal</h3>
+<img src="https://chandan-mahato-portfolio-website.vercel.app/_next/image?url=%2Fcareerproject.png&w=828&q=75" style="border-radius:14px;" />
+<p><b>Tech:</b> Next.js · TypeScript · FastAPI · PostgreSQL · Playwright</p>
+</td>
+
+<td width="50%" style="background:#0f172a; padding:15px; border-radius:18px;">
+<h3>🎬 ClipBoat.ai</h3>
+<img src="https://chandan-mahato-portfolio-website.vercel.app/_next/image?url=%2FHomepage.png&w=828&q=75" style="border-radius:14px;" />
+<p><b>Tech:</b> Next.js · TypeScript · Python · FFmpeg · Meta APIs</p>
+</td>
+
+<td width="50%" style="background:#0f172a; padding:15px; border-radius:18px;">
+<h3>🤖 JARVIS AI Assistant</h3>
+<img src="https://chandan-mahato-portfolio-website.vercel.app/_next/image?url=%2Fjarvis.png&w=828&q=75" style="border-radius:14px;" />
+<p><b>Tech:</b> Python · Whisper · Vosk · OpenAI · Automation</p>
+</td>
+
+<td width="50%" style="background:#0f172a; padding:15px; border-radius:18px;">
 <h3>Fraud Detection System</h3>
 <img src="https://chandan-mahato-portfolio-website.vercel.app/_next/image?url=%2Ffraud-detection.jpeg&w=828&q=75" style="border-radius:14px;" />
 <p><b>Tech:</b> Python · TensorFlow · Flask</p>

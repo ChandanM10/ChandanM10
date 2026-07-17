@@ -6,7 +6,16 @@
 <!-- ═══ 3D ANIMATED GITHUB-STYLE HERO (inline SVG) ═══ -->
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50e9dd4cd.gif" width="100%" alt="Header Animation"/>
+<table style="border-collapse: collapse; border: none; background: #0f172a; border-radius: 16px; overflow: hidden; box-shadow: 0 8px 32px rgba(0,0,0,0.5);">
+  <tr>
+    <td style="border: 1.5px solid #22d3ee; border-radius: 12px; padding: 6px; background: #0a0e1a;">
+      <img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50e9dd4cd.gif" width="380" alt="Animation 1"/>
+    </td>
+    <td style="border: 1.5px solid #a78bfa; border-radius: 12px; padding: 6px; background: #0a0e1a;">
+      <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="380" alt="Animation 2"/>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -1378,5 +1387,6 @@
 </svg>
 
 </div>
+
 
 
